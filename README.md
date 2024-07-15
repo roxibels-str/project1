@@ -1,2 +1,3 @@
-# project1
-Im current learning frameworks using Laravel. Im a beginner. 
+# React Project 
+Im currently learning react js. Im a beginner. 
+Using Node.js
