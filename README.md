@@ -1,3 +1,3 @@
 # React Project 
-Im currently learning react js. Im a beginner. 
-Using Node.js
+Im a beginner.
+Im currently learning react js using Node.js
